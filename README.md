@@ -1,6 +1,6 @@
 # rustlings solutions (4.3.0)
 
-These are my solutions to the rustlings exercises. Rustlings is a exercise-driven approach for learning Rust. I am new to Rust at the time of writing :)
+These are my solutions to the rustlings exercises. Rustlings is an exercise-driven approach for learning Rust. I am new to Rust at the time of writing.
 
 Notes:
 
