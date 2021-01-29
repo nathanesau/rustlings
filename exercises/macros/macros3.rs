@@ -2,7 +2,7 @@
 // Make me compile, without taking the macro out of the module!
 // Execute `rustlings hint macros3` for hints :)
 
-// I AM NOT DONE
+// // run using ``rustlings run macros3``
 
 mod macros {
     macro_rules! my_macro {
@@ -13,5 +13,5 @@ mod macros {
 }
 
 fn main() {
-    my_macro!();
+    macros::my_macro!();
 }
